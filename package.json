@@ -1,0 +1,14 @@
+{
+  "name": "pseudo_static",
+  "version": "1.0.0",
+  "description": "Static File Server for pseudoBlogger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "pesudoblogger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
