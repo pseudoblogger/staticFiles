@@ -516,7 +516,7 @@ font-weight: bold;
   color:white;
 }
 .media-header{
-  background-image: url(https://s3.amazonaws.com/blogkraken/images%40blogkraken/elec.gif)
+  background-image: url(http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/elec.gif)
 }
 .plyr--full-ui input[type=range] {
   color: rgb(245, 0, 79,1);
